@@ -16,7 +16,7 @@
 - Using Python to analyze transaction data from KPMG and creating a cohort that allows stakeholders to assess user engagement starting from their first transaction.
 ## II. Data Visualization with Python
 - **MoM Retention Rate for Customer Transaction Data**
-
+![image](https://user-images.githubusercontent.com/101726623/.png)
 
 ## III. Insights
 - Customers who register and place their first order in July 2017 have a high retention rate (up to 48.1%) after 5 months of operation.
