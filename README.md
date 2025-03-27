@@ -1,4 +1,3 @@
-)# [PYTHON] Cohort Analysis: How to Analyze User Retention
 ## I. Introduction
 ### 1. About Cohort Analysis
 ### What is cohort and cohort analysis? 
